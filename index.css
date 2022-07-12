@@ -67,7 +67,6 @@ header {
     /* background-color: rgb(255, 255, 255); */
     text-decoration: none;
     color: black;
-
 }
 
 .nav-hover:hover {
@@ -275,7 +274,7 @@ header {
     } */
 
     .div-1{
-        padding: 7px 12px;
+        padding: 0px 12px;
         font-size: 13px;
     }
 
@@ -292,7 +291,7 @@ header {
     }
 
     .div-3{
-        padding: 7px 15px;
+        padding: 13px 15px;
         font-size: 13px;
     }
 

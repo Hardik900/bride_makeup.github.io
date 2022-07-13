@@ -226,7 +226,7 @@ header {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin: 15px 0px;
+    margin: 15px 0px 0px 0px;
 }
 
 .div-2{
@@ -276,6 +276,7 @@ header {
     .div-1{
         padding: 0px 12px;
         font-size: 13px;
+        /* background-color: rgb(139, 139, 172); */
     }
 
     .div-2{
@@ -291,8 +292,9 @@ header {
     }
 
     .div-3{
-        padding: 13px 15px;
+        padding: 0px 15px;
         font-size: 13px;
+        /* background-color: aqua; */
     }
 
     .div-3 ul{

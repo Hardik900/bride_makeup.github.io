@@ -155,7 +155,7 @@ header {
     color: black;
 }
 
-@media screen and (max-width:800px) {
+@media only screen and (min-width:300px) and (max-width:768px) {
     header {
         display: none;
     }
@@ -272,7 +272,7 @@ header {
     font-size: 30px;
 }
 
-@media screen and (max-width:768px) {
+@media only screen and (max-width:768px) {
     .kk{
         display: none;
     }
